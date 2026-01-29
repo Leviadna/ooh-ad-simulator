@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+pydeck
+google-cloud-bigquery
+google-auth
+db-dtypes
